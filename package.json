@@ -7,7 +7,6 @@
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
-    "deploy": "git push origem aster; git push umbler master;"
   },
   "dependencies": {
     "express": "^4.17.1"
