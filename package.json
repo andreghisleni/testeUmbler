@@ -1,0 +1,11 @@
+{
+  "name": "testeUmbler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andreghisleni/testeUmbler.git",
+  "author": "André Ghisleni Raimann",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
