@@ -3,7 +3,6 @@ const app = express();
 
 app.get('/', (req, res)=>{
   res.send("<h1>Hello World.</h1>");
-  console.log(req);
 })
                                 
 const port = process.env.PORT || 3000;
