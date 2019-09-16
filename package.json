@@ -5,6 +5,9 @@
   "repository": "https://github.com/andreghisleni/testeUmbler.git",
   "author": "André Ghisleni Raimann",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
